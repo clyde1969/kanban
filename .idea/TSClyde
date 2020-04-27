@@ -1,1 +1,10 @@
 Dit is mijn test
+
+Nu schrijf ik de definitieve verander ing vanui IntelliJ
+
+Vanuit een lokale branche omzeil ik de Master lokale branche
+Hiermee wordt deze branche beschikbaar voor anderen via de server
+
+Simpelweg door het commando
+
+git push origin <BrancheNme>
